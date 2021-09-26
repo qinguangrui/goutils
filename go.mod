@@ -6,8 +6,7 @@ require (
 	github.com/axiaoxin-com/goutils v1.0.3-0.20201019024427-66fe97b27be4
 	github.com/denisenkom/go-mssqldb v0.0.0-20200910202707-1e08a3fab204 // indirect
 	github.com/getsentry/sentry-go v0.6.0
-	github.com/gin-gonic/gin v1.6.3
-	github.com/go-playground/validator/v10 v10.4.1 // indirect
+	github.com/gin-gonic/gin v1.7.4
 	github.com/go-redis/redis/v8 v8.3.2 // indirect
 	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/json-iterator/go v1.1.10
